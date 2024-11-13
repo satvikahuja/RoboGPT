@@ -2,8 +2,7 @@ basic concept of robogpt inspired by orangewoods labs
 
 # RoboGPT jr🤖
 
-([Watch the Demo Video]([https://github.com/satvikahuja/RoboGPT/blob/main/demo.mp4?raw=true](https://www.youtube.com/watch?v=0gcH466rV34
-))
+[Watch the Demo Video]([https://github.com/satvikahuja/RoboGPT/blob/main/demo.mp4?raw=true](https://www.youtube.com/watch?v=0gcH466rV34)
 
 
 RoboGPT jr is an interactive robotic system that leverages OpenAI's GPT-4 model to interpret and execute human commands in real time. Through natural language, users can instruct the robot to move, capture images, perform pick-and-place tasks, and even learn custom moves that can be saved for future use. This project combines NLP, computer vision, and robotics, enabling users to control physical actions through conversational AI.
