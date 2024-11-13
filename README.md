@@ -2,7 +2,11 @@ basic concept of robogpt by orangewoods labs
 
 demo video link- https://www.youtube.com/watch?v=0gcH466rV34
 
-Here’s an updated `README.md` that includes the functionality to teach RoboGPT new moves and save sequences, and it highlights the main topics in code blocks for easy navigation:
+# RoboGPT 🤖
+
+[Watch the Demo Video](https://github.com/satvikahuja/RoboGPT/blob/main/demo.mp4?raw=true)
+
+
 
 # RoboGPT 🤖
 
