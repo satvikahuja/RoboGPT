@@ -1,16 +1,12 @@
 basic concept of robogpt by orangewoods labs
 
-demo video link- https://www.youtube.com/watch?v=0gcH466rV34
+# RoboGPT jr🤖
 
-# RoboGPT 🤖
-
-[Watch the Demo Video](https://github.com/satvikahuja/RoboGPT/blob/main/demo.mp4?raw=true)
-
+[Watch the Demo Video]([https://github.com/satvikahuja/RoboGPT/blob/main/demo.mp4?raw=true](https://www.youtube.com/watch?v=0gcH466rV34
+))
 
 
-# RoboGPT 🤖
-
-RoboGPT is an interactive robotic system that leverages OpenAI's GPT-4 model to interpret and execute human commands in real time. Through natural language, users can instruct the robot to move, capture images, perform pick-and-place tasks, and even learn custom moves that can be saved for future use. This project combines NLP, computer vision, and robotics, enabling users to control physical actions through conversational AI.
+RoboGPT jr is an interactive robotic system that leverages OpenAI's GPT-4 model to interpret and execute human commands in real time. Through natural language, users can instruct the robot to move, capture images, perform pick-and-place tasks, and even learn custom moves that can be saved for future use. This project combines NLP, computer vision, and robotics, enabling users to control physical actions through conversational AI.
 
 ---
 
