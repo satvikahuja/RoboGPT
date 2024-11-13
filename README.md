@@ -4,7 +4,6 @@ demo video link- https://www.youtube.com/watch?v=0gcH466rV34
 
 Here’s an updated `README.md` that includes the functionality to teach RoboGPT new moves and save sequences, and it highlights the main topics in code blocks for easy navigation:
 
-```markdown
 # RoboGPT 🤖
 
 RoboGPT is an interactive robotic system that leverages OpenAI's GPT-4 model to interpret and execute human commands in real time. Through natural language, users can instruct the robot to move, capture images, perform pick-and-place tasks, and even learn custom moves that can be saved for future use. This project combines NLP, computer vision, and robotics, enabling users to control physical actions through conversational AI.
@@ -13,21 +12,18 @@ RoboGPT is an interactive robotic system that leverages OpenAI's GPT-4 model to 
 
 ## Features
 
-```plaintext
 - Natural Language Processing (NLP): Uses GPT-4 (`gpt-4o-mini` model) to interpret user commands and respond conversationally.
 - Real-Time Computer Vision: Captures images and detects objects based on user instructions.
 - Autonomous Pick-and-Place: The robot can pick up and place objects with precision.
 - Movement Control: Executes movement commands (forward, backward, left, right) and operates a claw mechanism.
 - Custom Move Learning: Users can teach RoboGPT a sequence of moves, which it saves for future execution.
 - Interactive GUI: A Streamlit-based interface enables users to interact with the robot in a chat-like environment.
-```
 
 ---
 
 ## Components Used
 
 ### Physical Components
-```plaintext
 - Arduino Microcontroller
 - Camera Module
 - Motor Driver (4 Channel)
@@ -35,27 +31,22 @@ RoboGPT is an interactive robotic system that leverages OpenAI's GPT-4 model to 
 - Robot Chassis
 - Battery Pack
 - Robotic Arm with Claw
-```
 
 ### Software & Libraries
-```plaintext
 - Python: Main programming language
 - OpenAI API: For GPT-4 model integration
 - Streamlit: Interactive user interface
 - OpenCV: Image capture and processing
 - Arduino IDE: Motor and sensor control
-```
 
 ---
 
 ## System Requirements
 
-```plaintext
 - Python 3.8+
 - Arduino hardware (configured with necessary motor and sensor components)
 - Camera Module (USB or built-in webcam)
 - OpenAI API Key
-```
 
 ---
 
