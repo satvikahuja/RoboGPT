@@ -1,4 +1,4 @@
-basic concept of robogpt by orangewoods labs
+basic concept of robogpt inspired by orangewoods labs
 
 # RoboGPT jr🤖
 
