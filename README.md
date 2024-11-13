@@ -2,7 +2,7 @@ basic concept of robogpt inspired by orangewoods labs
 
 # RoboGPT jr🤖
 
-[Watch the Demo Video]([https://github.com/satvikahuja/RoboGPT/blob/main/demo.mp4?raw=true](https://www.youtube.com/watch?v=0gcH466rV34
+([Watch the Demo Video]([https://github.com/satvikahuja/RoboGPT/blob/main/demo.mp4?raw=true](https://www.youtube.com/watch?v=0gcH466rV34
 ))
 
 
