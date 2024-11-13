@@ -7,16 +7,15 @@ basic concept of robogpt inspired by orangewoods labs
 Welcome to RoboGPT, an AI-powered robot assistant that can interpret natural language commands to control robotic actions.
 
 
-RoboGPT jr is an interactive robotic system that leverages OpenAI's GPT-4 model to interpret and execute human commands in real time. Through natural language, users can instruct the robot to move, capture images, perform pick-and-place tasks, and even learn custom moves that can be saved for future use. This project combines NLP, computer vision, and robotics, enabling users to control physical actions through conversational AI.
+RoboGPT jr is an interactive robotic system that leverages OpenAI's GPT-4o model to interpret and execute human commands in real time. Through natural language, users can instruct the robot to move, capture images, perform pick-and-place tasks, and even learn custom moves that can be saved for future use. This project combines NLP, computer vision, and robotics, enabling users to control physical actions through conversational AI.
 
 ---
 
 ## Features
 
-- Natural Language Processing (NLP): Uses GPT-4 (`gpt-4o-mini` model) to interpret user commands and respond conversationally.
+- Large Language Model : Uses GPT-4o (`gpt-4o-mini` model) to interpret user commands and respond conversationally.
 - Real-Time Computer Vision: Captures images and detects objects based on user instructions.
-- Autonomous Pick-and-Place: The robot can pick up and place objects with precision.
-- Movement Control: Executes movement commands (forward, backward, left, right) and operates a claw mechanism.
+- Autonomous Pick-and-Place: The robot can pick up and place objects.
 - Custom Move Learning: Users can teach RoboGPT a sequence of moves, which it saves for future execution.
 - Interactive GUI: A Streamlit-based interface enables users to interact with the robot in a chat-like environment.
 
@@ -26,16 +25,15 @@ RoboGPT jr is an interactive robotic system that leverages OpenAI's GPT-4 model 
 
 ### Physical Components
 - Arduino Microcontroller
-- Camera Module
+- Camera Module (using iphone continuity camera)
 - Motor Driver (4 Channel)
 - DC Motors
 - Robot Chassis
-- Battery Pack
 - Robotic Arm with Claw
 
 ### Software & Libraries
 - Python: Main programming language
-- OpenAI API: For GPT-4 model integration
+- OpenAI API: For GPT-40-mini model integration
 - Streamlit: Interactive user interface
 - OpenCV: Image capture and processing
 - Arduino IDE: Motor and sensor control
