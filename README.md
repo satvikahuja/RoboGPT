@@ -2,8 +2,8 @@ basic concept of robogpt inspired by orangewoods labs
 
 # RoboGPT jr🤖
 
-[![Watch the demo video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg](https://www.youtube.com/watch?v=0gcH466rV34&t=1s)]
-Welcome to RoboGPT, an AI-powered robot assistant that can interpret natural language commands to control robotic actions with precision.
+[![Watch the Demo Video](https://img.youtube.com/vi/0gcH466rV34/maxresdefault.jpg)](https://www.youtube.com/watch?v=0gcH466rV34&t=1s)
+Welcome to RoboGPT, an AI-powered robot assistant that can interpret natural language commands to control robotic actions.
 
 
 RoboGPT jr is an interactive robotic system that leverages OpenAI's GPT-4 model to interpret and execute human commands in real time. Through natural language, users can instruct the robot to move, capture images, perform pick-and-place tasks, and even learn custom moves that can be saved for future use. This project combines NLP, computer vision, and robotics, enabling users to control physical actions through conversational AI.
